@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
 
     <meta charset="utf-8">
@@ -21,7 +20,7 @@
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
 </head>
-
+<body>
 <div>
 
 
@@ -43,139 +42,170 @@
         <?php include('navbar.php'); ?>
 </div>
 <!-- /.container -->
-</nav>
-
-
 <!-- Page Content -->
+<h2 style="text-align:center;">Transportation Leadership Council</h2>
 <hr>
-<!-- Image Header -->
-<div class="row">
-    <div class="img-responsive text-center">
-        <img src="tlc.png" alt="TLC">
-    </div>
-</div>
+
 
 <!-- /.row -->
-<hr>
+
 
 <div class="row">
-    <h2 style="text-align:center;">Transportation Leadership Council</h2>
-    <div class="container-fluid">
-        <p>The purpose of the TLC Student Chapter is to promote the collaboration of multi-disciplinary transportation
-            professionals and UTEP students by fostering the development of leadership, teamwork, networking, and
-            research skills through the activities conducted by the Chapter.
 
-            TLC Activities:
-        <ul>
-            <li>Present research work in conferences</li>
-            <li>Conduct monthly meetings with professional presenters from the transportation community</li>
-            <li>Participate in community service events</li>
-            <li>Promote networking opportunities</li>
-        </ul>
+    <div class="col-lg-6">
+        <div class="container-fluid" style="font-size: large">
+            <p>The purpose of the TLC Student Chapter is to promote the collaboration of multi-disciplinary
+                transportation
+                professionals and UTEP students by fostering the development of leadership, teamwork, networking, and
+                research skills through the activities conducted by the Chapter.
 
-        Membership is open to all students with interest in the transportation field. No membership dues required.<br>
-        Call for Officers! If you are interested in serving as an officer for TLC please contact Benjamin Arras
-        (barras@miners.utep.edu) or Dr. Imad Abdallah(emadn@utep.edu).
-        <hr>
+                TLC Activities:
+            <ul>
+                <li>Present research work in conferences</li>
+                <li>Conduct monthly meetings with professional presenters from the transportation community</li>
+                <li>Participate in community service events</li>
+                <li>Promote networking opportunities</li>
+            </ul>
+
+            Membership is open to all students with interest in the transportation field. No membership dues
+            required.<br>
+            Call for Officers! If you are interested in serving as an officer for TLC please contact Benjamin Arras
+            (barras@miners.utep.edu) or Dr. Imad Abdallah(emadn@utep.edu).
+
+        </div>
     </div>
-    <div>
-        <!--            -->
-        <h2 style="text-align:center;">Officers</h2>
-        <!-- Nav tabs -->
-        <ul class="nav nav-tabs" role="tablist">
-            <li role="presentation" class="active"><a href="#TLC_2018-2019" aria-controls="2019" role="tab"
-                                                      data-toggle="tab">2018 - 2019</a></li>
-            <li role="presentation"><a href="#TLC_2017-2018" aria-controls="2018" role="tab" data-toggle="tab">2017 -
-                    2018</a>
-            </li>
-            <li role="presentation"><a href="#TLC_2016-2017" aria-controls="2017" role="tab" data-toggle="tab">2016 -
-                    2017</a>
-            </li>
-        </ul>
-        <!-- Tab panes -->
-        <div class="tab-content">
-            <div role="tabpanel" class="active tab-pane fade in " id="TLC_2018-2019">
-                <ul>
-                    <li>
-                        <b>President</b> - Benjamin Arras
-                    </li>
-                    <li>
-                        <b>Vice President</b> - Mayra Reyna
-                    </li>
-                    <li>
-                        <b>Secretary</b> - Margarita Ordaz
-                    </li>
-                    <li>
-                        <b>Treasurer</b> - Angelica Torres
-                    </li>
-                    <li>
-                        <b>Webmaster & Historian</b> - Sebastian Gonzalez
-                    </li>
-                </ul>
-            </div>
-            <div role="tabpanel" class="tab-pane fade" id="TLC_2017-2018">
-                <ul>
-                    <li>
-                        <b>President</b> - 1
-                    </li>
-                    <li>
-                        <b>Vice President</b> -2
-                    </li>
-                    <li>
-                        <b>Secretary</b> -3
-                    </li>
-                    <li>
-                        <b>Treasurer</b> - 4
-                    </li>
-                    <li>
-                        <b>Webmaster & Historian</b> -5
-                    </li>
-                </ul>
-            </div>
-            <div role="tabpanel" class="tab-pane fade" id="TLC_2016-2017">
-                <ul>
-                    <li>
-                        <b>President</b> - 1
-                    </li>
-                    <li>
-                        <b>Vice President</b> -2
-                    </li>
-                    <li>
-                        <b>Secretary</b> -3
-                    </li>
-                    <li>
-                        <b>Treasurer</b> - 4
-                    </li>
-                    <li>
-                        <b>Webmaster & Historian</b> -5
-                    </li>
-                </ul>
-            </div>
+    <div class="col-lg-6 container">
+        <div>
+            <img class="img-responsive" src="tlc.png" alt="TLC">
         </div>
 
-        <!--            -->
-
     </div>
-
-
+</div>
+<div>
+    <!--            -->
     <hr>
-    <div>
-        <h2 style="text-align:center;">Documents</h2>
-        <ul>
-            <li>Documents Transportation Leadership Council (TLC) -
-                <a href="doc/Transportation Leadership Council (TLC) -Presentation-2015-09-10-R3.pptx">Presentation</a>
-                - 2015-09-10-R3
-            </li>
-            <li><a href="TLC%20Fund%20Request%20Form.pdf" target="_blank">Fund Request Form PDF</a>
-            </li>
-        </ul>
+    <h2 style="text-align:center;">Officers</h2>
+    <!-- Nav tabs -->
+    <ul class="nav nav-tabs" role="tablist">
+        <li role="presentation" class="active"><a href="#TLC_2018-2019" aria-controls="2019" role="tab"
+                                                  data-toggle="tab">2018 - 2019</a></li>
+        <li role="presentation"><a href="#TLC_2017-2018" aria-controls="2018" role="tab" data-toggle="tab">2017 -
+                2018</a>
+        </li>
+        <li role="presentation"><a href="#TLC_2016-2017" aria-controls="2017" role="tab" data-toggle="tab">2016 -
+                2017</a>
+        </li>
+        <li role="presentation"><a href="#TLC_2015-2016" aria-controls="2017" role="tab" data-toggle="tab">2015 -
+                2016</a>
+        </li>
+    </ul>
+    <!-- Tab panes -->
+    <div class="tab-content">
+        <div role="tabpanel" class="active tab-pane fade in " id="TLC_2018-2019">
+            <ul>
+                <li class="list-group-item">
+                    <b>President</b> - Benjamin Arras
+                </li>
+                <li class="list-group-item">
+                    <b>Vice President</b> - Mayra Reyna
+                </li>
+                <li class="list-group-item">
+                    <b>Secretary</b> - Margarita Ordaz
+                </li>
+                <li class="list-group-item">
+                    <b>Treasurer</b> - Angelica Torres
+                </li>
+                <li class="list-group-item">
+                    <b>Webmaster & Historian</b> - Sebastian Gonzalez
+                </li>
+            </ul>
+        </div>
+        <div role="tabpanel" class="tab-pane fade" id="TLC_2017-2018">
+            <ul>
+                <li class="list-group-item">
+                    <b>President</b> - Luisa Morales
+                </li>
+                <li class="list-group-item">
+                    <b>Vice President</b> - Jose Arciniega
+                </li>
+                <li class="list-group-item">
+                    <b>Secretary</b> - Miguel Perez
+                </li>
+                <li class="list-group-item">
+                    <b>Webmaster</b> - David Teutli
+                </li>
+                <li class="list-group-item">
+                    <b>Historian</b> - Mohammad Rashidi
+                </li>
+                <li class="list-group-item">
+                    <b>Community Representative</b> - Luiza Barrios
+                </li>
+            </ul>
+        </div>
+        <div role="tabpanel" class="tab-pane fade" id="TLC_2016-2017">
+            <ul>
+                <li class="list-group-item">
+                    <b>President</b> - Diana Cabrera
+                </li>
+                <li class="list-group-item">
+                    <b>Vice President</b> - Victor Garcia
+                </li>
+                <li class="list-group-item">
+                    <b>Secretary</b> - Isaac Aguilar
+                </li>
+                <li class="list-group-item">
+                    <b>Treasurer</b> -  Luisa Morales
+                </li>
+                <li class="list-group-item">
+                    <b>Webmaster</b> - Sofia Maria
+                </li>
+                <li class="list-group-item">
+                    <b>Historian</b> - Carlos Anguiano
+                </li>
+            </ul>
+        </div>
+        <div role="tabpanel" class="tab-pane fade" id="TLC_2015-2016">
+            <ul>
+                <li class="list-group-item">
+                    <b>President</b> - Prajwol Tamrakar
+                </li>
+                <li class="list-group-item">
+                    <b>Vice President</b> - Jannet Hernandez
+                </li>
+                <li class="list-group-item">
+                    <b>Secretary</b> - Nancy Aguirre
+                </li>
+                <li class="list-group-item">
+                    <b>Treasurer</b> -  Ariana Leos
+                </li>
+                <li class="list-group-item">
+                    <b>Historian</b> - Isaac Aguilar
+                </li>
+                <li class="list-group-item">
+                    <b>Community Representative</b> - Jose Miramontes
+                </li>
+            </ul>
+        </div>
     </div>
-    <hr>
 
 </div>
 
-<div class="container">
 
+<hr>
+<div>
+    <h2 style="text-align:center;">Documents</h2>
+    <ul>
+        <li class="list-group-item"><b>Documents Transportation Leadership Council (TLC) -</b>
+            <a href="doc/Transportation Leadership Council (TLC) -Presentation-2015-09-10-R3.pptx">Presentation</a>
+            - 2015-09-10-R3
+        </li>
+        <li class="list-group-item"><a href="TLC%20Fund%20Request%20Form.pdf" target="_blank">TLC Fund Request Form PDF</a>
+        </li>
+    </ul>
+</div>
+<hr>
+<div class="container">
+    <h2 style="text-align:center;">Events</h2>
 
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
 
@@ -185,138 +215,47 @@
             <li data-target="#myCarousel" data-slide-to="2"></li>
             <li data-target="#myCarousel" data-slide-to="3"></li>
             <li data-target="#myCarousel" data-slide-to="4"></li>
-            <li data-target="#myCarousel" data-slide-to="5"></li>
-            <li data-target="#myCarousel" data-slide-to="6"></li>
-            <li data-target="#myCarousel" data-slide-to="7"></li>
-            <li data-target="#myCarousel" data-slide-to="8"></li>
-            <li data-target="#myCarousel" data-slide-to="9"></li>
-            <li data-target="#myCarousel" data-slide-to="10"></li>
-            <li data-target="#myCarousel" data-slide-to="11"></li>
-            <li data-target="#myCarousel" data-slide-to="12"></li>
-            <li data-target="#myCarousel" data-slide-to="13"></li>
+
         </ol>
 
 
         <div class="carousel-inner" role="listbox">
             <div class="item active">
-                <img src="img/new_officers_1.jpg" alt="New Officers"
-                     style="display: block; margin-left: auto; margin-right: auto;" height="50%" width="50%">
+                <img src="img/TLC_new_officers-2018-2019.png" alt="New Officers"
+                     style="display: block; margin-left: auto; margin-right: auto;">
                 <div class="carousel-caption">
-                    <h2>TLC New Officers</h2>
+
                 </div>
             </div>
 
             <div class="item">
-                <img src="img/new_officers_2.jpg" alt="New Officers"
-                     style="display: block; margin-left: auto; margin-right: auto;" height="50%" width="50%">
+                <img src="img/TLC%20Construction%20Career%20Fest%20-SUNDT.png" alt="SUNDT"
+                     style="display: block; margin-left: auto; margin-right: auto;">
                 <div class="carousel-caption">
-                    <h2>TLC New Officers</h2>
+
                 </div>
             </div>
-
-
             <div class="item">
-                <img src="img/sundt_1.jpg" alt="SUNDT"
-                     style="display: block; margin-left: auto; margin-right: auto;" height="50%" width="50%">
+                <img src="img/TLC%20First%20General%20Meeting.png" alt="First meeting"
+                     style="display: block; margin-left: auto; margin-right: auto;">
                 <div class="carousel-caption">
-                    <h2>TLC SUNDT 2018 </h2>
+
                 </div>
             </div>
-
             <div class="item">
-                <img src="img/sundt_2.jpg" alt="SUNDT"
-                     style="display: block; margin-left: auto; margin-right: auto;" height="50%" width="50%">
+                <img src="img/Forum%20&%20Halloween%20Costume%20Contest.png" alt="Forum"
+                     style="display: block; margin-left: auto; margin-right: auto;">
                 <div class="carousel-caption">
-                    <h2>TLC SUNDT 2018 </h2>
-                </div>
-            </div>
 
-
-            <div class="item">
-                <img src="img/sundt_3.jpg" alt="SUNDT"
-                     style="display: block; margin-left: auto; margin-right: auto;" height="50%" width="50%">
-                <div class="carousel-caption">
-                    <h2>TLC SUNDT 2018 </h2>
                 </div>
             </div>
 
 
             <div class="item">
-                <img src="img/sundt_4.jpg" alt="SUNDT"
-                     style="display: block; margin-left: auto; margin-right: auto;" height="50%" width="50%">
+                <img src="img/TLC%20Mitzi%20Bond%20Elementary%20College%20Fair.png" alt="Bond"
+                     style="display: block; margin-left: auto; margin-right: auto;">
                 <div class="carousel-caption">
-                    <h2>TLC SUNDT 2018 </h2>
-                </div>
-            </div>
-
-            <div class="item">
-                <img src="img/gen_meet_fall18_1.jpg" alt="First meeting"
-                     style="display: block; margin-left: auto; margin-right: auto;" height="50%" width="50%">
-                <div class="carousel-caption">
-                    <h2>TLC First General Meeting Fall 2018 </h2>
-                </div>
-            </div>
-
-
-            <div class="item">
-                <img src="img/gen_meet_fall18_2.jpg" alt="First meeting"
-                     style="display: block; margin-left: auto; margin-right: auto;" height="50%" width="50%">
-                <div class="carousel-caption">
-                    <h2>TLC First General Meeting Fall 2018 </h2>
-                </div>
-            </div>
-
-            <div class="item">
-                <img src="img/gen_meet_fall18_3.jpg" alt="First meeting"
-                     style="display: block; margin-left: auto; margin-right: auto;" height="50%" width="50%">
-                <div class="carousel-caption">
-                    <h2>TLC First General Meeting Fall 2018 </h2>
-                </div>
-            </div>
-
-
-            <div class="item">
-                <img src="img/gen_meet_fall18_4.jpg" alt="First meeting"
-                     style="display: block; margin-left: auto; margin-right: auto;" height="50%" width="50%">
-                <div class="carousel-caption">
-                    <h2>TLC First General Meeting Fall 2018 </h2>
-                </div>
-            </div>
-
-
-            <div class="item">
-                <img src="img/gen_meet_fall18_5.jpg" alt="First meeting"
-                     style="display: block; margin-left: auto; margin-right: auto;" height="50%" width="50%">
-                <div class="carousel-caption">
-                    <h2>TLC First General Meeting Fall 2018 </h2>
-                </div>
-            </div>
-
-            <div class="item">
-                <img src="img/gen_meet_fall18_6.jpg" alt="First meeting"
-                     style="display: block; margin-left: auto; margin-right: auto;" class="img-fluid" width="50%"
-                     height="auto">
-                <div class="carousel-caption">
-                    <h2>TLC First General Meeting Fall 2018 </h2>
-                </div>
-            </div>
-
-
-            <div class="item">
-                <img src="img/gen_meet_fall18_7.jpg" alt="First meeting"
-                     style="display: block; margin-left: auto; margin-right: auto;" class="img-fluid" width="50%"
-                     height="auto">
-                <div class="carousel-caption">
-                    <h2>TLC First General Meeting Fall 2018 </h2>
-                </div>
-            </div>
-
-            <div class="item">
-                <img src="img/gen_meet_fall18_8.jpg" alt="First meeting"
-                     style="display: block; margin-left: auto; margin-right: auto;" class="img-fluid" width="50%"
-                     height="auto">
-                <div class="carousel-caption">
-                    <h2>TLC First General Meeting Fall 2018 </h2>
+                    <h2>Mitzi Bond Elementary College Fair </h2>
                 </div>
             </div>
         </div>
@@ -332,7 +271,6 @@
         </a>
     </div>
 </div>
-
 <hr>
 <img id="footerpic" src="../../footer.png">
 <!-- Footer -->
