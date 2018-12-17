@@ -25,7 +25,7 @@
 <div>
 
 
-<!-- Navigation -->
+    <!-- Navigation -->
 
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
@@ -41,26 +41,26 @@
             </div>
         </div>
         <?php include('navbar.php'); ?>
-        </div>
-        <!-- /.container -->
-    </nav>
+</div>
+<!-- /.container -->
+</nav>
 
 
 <!-- Page Content -->
-    <hr>
-    <!-- Image Header -->
-    <div class="row">
-        <div class="img-responsive text-center">
-            <img src="tlc.png" alt="TLC" >
-        </div>
+<hr>
+<!-- Image Header -->
+<div class="row">
+    <div class="img-responsive text-center">
+        <img src="tlc.png" alt="TLC">
     </div>
+</div>
 
-    <!-- /.row -->
-    <hr>
+<!-- /.row -->
+<hr>
 
-    <div class="row">
-        <h2 style="text-align:center;">Transportation Leadership Council</h2>
-        <div  class="container-fluid">
+<div class="row">
+    <h2 style="text-align:center;">Transportation Leadership Council</h2>
+    <div class="container-fluid">
         <p>The purpose of the TLC Student Chapter is to promote the collaboration of multi-disciplinary transportation
             professionals and UTEP students by fostering the development of leadership, teamwork, networking, and
             research skills through the activities conducted by the Chapter.
@@ -77,51 +77,102 @@
         Call for Officers! If you are interested in serving as an officer for TLC please contact Benjamin Arras
         (barras@miners.utep.edu) or Dr. Imad Abdallah(emadn@utep.edu).
         <hr>
+    </div>
+    <div>
+        <!--            -->
+        <h2 style="text-align:center;">Officers</h2>
+        <!-- Nav tabs -->
+        <ul class="nav nav-tabs" role="tablist">
+            <li role="presentation" class="active"><a href="#TLC_2018-2019" aria-controls="2019" role="tab"
+                                                      data-toggle="tab">2018 - 2019</a></li>
+            <li role="presentation"><a href="#TLC_2017-2018" aria-controls="2018" role="tab" data-toggle="tab">2017 -
+                    2018</a>
+            </li>
+            <li role="presentation"><a href="#TLC_2016-2017" aria-controls="2017" role="tab" data-toggle="tab">2016 -
+                    2017</a>
+            </li>
+        </ul>
+        <!-- Tab panes -->
+        <div class="tab-content">
+            <div role="tabpanel" class="active tab-pane fade in " id="TLC_2018-2019">
+                <ul>
+                    <li>
+                        <b>President</b> - Benjamin Arras
+                    </li>
+                    <li>
+                        <b>Vice President</b> - Mayra Reyna
+                    </li>
+                    <li>
+                        <b>Secretary</b> - Margarita Ordaz
+                    </li>
+                    <li>
+                        <b>Treasurer</b> - Angelica Torres
+                    </li>
+                    <li>
+                        <b>Webmaster & Historian</b> - Sebastian Gonzalez
+                    </li>
+                </ul>
+            </div>
+            <div role="tabpanel" class="tab-pane fade" id="TLC_2017-2018">
+                <ul>
+                    <li>
+                        <b>President</b> - 1
+                    </li>
+                    <li>
+                        <b>Vice President</b> -2
+                    </li>
+                    <li>
+                        <b>Secretary</b> -3
+                    </li>
+                    <li>
+                        <b>Treasurer</b> - 4
+                    </li>
+                    <li>
+                        <b>Webmaster & Historian</b> -5
+                    </li>
+                </ul>
+            </div>
+            <div role="tabpanel" class="tab-pane fade" id="TLC_2016-2017">
+                <ul>
+                    <li>
+                        <b>President</b> - 1
+                    </li>
+                    <li>
+                        <b>Vice President</b> -2
+                    </li>
+                    <li>
+                        <b>Secretary</b> -3
+                    </li>
+                    <li>
+                        <b>Treasurer</b> - 4
+                    </li>
+                    <li>
+                        <b>Webmaster & Historian</b> -5
+                    </li>
+                </ul>
+            </div>
         </div>
-        <div>
-            <h2 style="text-align:center;">Officers</h2>
-            <ul>
-                <li>
-                    <b>President</b> - Benjamin Arras
-                </li>
-                <li>
-                    <b>Vice President</b> - Mayra Reyna
-                </li>
-                <li>
-                    <b>Secretary</b> - Margarita Ordaz
-                </li>
-                <li>
-                    <b>Treasurer</b> - Angelica Torres
-                </li>
-                <li>
-                    <b>Webmaster & Historian</b> - Sebastian Gonzalez
-                </li>
-            </ul>
-        </div>
-        <hr>
- <div>
-     <ul class="nav nav-pills">
-         <li role="presentation" class="active"><a href="#">Home</a></li>
-         <li role="presentation"><a href="#">Profile</a></li>
-         <li role="presentation"><a href="#">Messages</a></li>
-     </ul>
-<!--            <ul class="nav nav-tabs">-->
-<!--                <li role="presentation">Documents Transportation Leadership Council (TLC) --->
-<!--                    <a href="doc/Transportation Leadership Council (TLC) -Presentation-2015-09-10-R3.pptx">Presentation</a>-->
-<!--                    - 2015-09-10-R3-->
-<!--                </li>-->
-<!--                <li role="presentation"><a href="TLC%20Fund%20Request%20Form.pdf" target="_blank">Fund Request Form PDF</a></li>-->
-<!---->
-<!--                <li role="presentation"><a href="#">Profile</a></li>-->
-<!--                <li role="presentation"><a href="#">Messages</a></li>-->
-<!--            </ul>-->
 
-
-
-        </div>
-        <hr>
+        <!--            -->
 
     </div>
+
+
+    <hr>
+    <div>
+        <h2 style="text-align:center;">Documents</h2>
+        <ul>
+            <li>Documents Transportation Leadership Council (TLC) -
+                <a href="doc/Transportation Leadership Council (TLC) -Presentation-2015-09-10-R3.pptx">Presentation</a>
+                - 2015-09-10-R3
+            </li>
+            <li><a href="TLC%20Fund%20Request%20Form.pdf" target="_blank">Fund Request Form PDF</a>
+            </li>
+        </ul>
+    </div>
+    <hr>
+
+</div>
 
 <div class="container">
 
@@ -271,23 +322,21 @@
         </div>
 
 
-
-    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-    </a>
-    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-    </a>
+        <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
     </div>
- </div>
+</div>
 
 <hr>
-    <img id="footerpic" src="../../footer.png">
-    <!-- Footer -->
-    <?php include('../../footer.php'); ?>
-
+<img id="footerpic" src="../../footer.png">
+<!-- Footer -->
+<?php include('../../footer.php'); ?>
 
 
 <!-- /.container -->
